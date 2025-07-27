@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> docker-simple-proxy is archived. Please use https://github.com/CyberL1/Dockport, it supports more features while also being lighter (16.4 MB, while this image is 52.9 MB).
+
 # What is this?
 
 This is an automatic proxy for docker containers.
